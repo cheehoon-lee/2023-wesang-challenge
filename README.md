@@ -58,7 +58,7 @@ mindmap
             자주 묻는 질문 등은 자동화된 챗봇 활용으로 이슈사항 신속히 해결
         YoGIS embedding
           텍스트로 보고 싶은 맵 쿼리하자
-          여러 layer를 벡터 임베딩하여 후속 테스크(클러스터링, 회귀, 분류, ...) 고도화에 사용
+          여러 layer를 벡터 임베딩하여 후속 task 고도화에 사용
           layer 예시 : 지형, 건물, 인구수, dispatch wait time, distance to PU hot zone, ...
           task 예시 : 지역 클러스터링, 지역단위 시간예측, ...
           선례
