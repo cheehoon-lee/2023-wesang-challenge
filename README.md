@@ -1,6 +1,3 @@
-# 2023-wesang-challenge
-
-```mermaid
 mindmap
   root((Ideas))
     For / Using Customer
@@ -44,20 +41,29 @@ mindmap
             업체와 계약을 맺고 하는 거니 위법이지 않을까?
 
     For Ours
-      이미지 생성 ai
-        광고 배너를 빠르고 독창적으로 만들어보자
-        사장님이 본인 가게 마케팅
-          사장님이 사용할 툴 마련, 음식이나 모델 등을 그럴듯하게 생성
-      Yochat
-        온콜 1차 담당자로 chatgpt 어떰?
-          whatupyo 에 chatgpt 이식
-        yochat flow
-          사내의 여러 태스크를 자동화해보자 with NLP + slack workflow
-        yochat rider
-          라이더와의 VOC는 우선 채팅으로?
-            자주 묻는 질문 등은 자동화된 챗봇 활용으로 이슈사항 신속히 해결
-        YoGIS embedding
-          텍스트로 보고 싶은 맵 쿼리하자
+        이미지 생성 ai
+            광고 배너를 빠르고 독창적으로 만들어보자
+            사장님이 본인 가게 마케팅
+            사장님이 사용할 툴 마련, 음식이나 모델 등을 그럴듯하게 생성
+        Yochat
+            온콜 1차 담당자로 chatgpt 어떰?
+                whatupyo 에 chatgpt 이식
+            yochat flow
+                사내의 여러 태스크를 자동화해보자 with NLP + slack workflow
+            yochat rider
+                라이더와의 VOC는 우선 채팅으로?
+                    자주 묻는 질문 등은 자동화된 챗봇 활용으로 이슈사항 신속히 해결
+            YoGIS embedding
+                텍스트로 보고 싶은 맵 쿼리하자
+        YoGIS embedding 
+            Vector embedding of multiple H3 layers for downstream task 
+            H3 layers
+                지형, 건물, 인구수, dispatch wait time, distance to PU hot zone, ...
+            Downstream tasks 
+                지역 클러스터링, 지역단위 시간예측, ...
+            Examples
+                GeoBERT PreTraining Geospatial Representation Learning on Point of Interest
+                hex2vec Context Aware Embedding H3 Hexagons withOpenStreetMap Tags
 
     For Vendor
       사장님 메뉴 밀어주기
@@ -69,12 +75,3 @@ mindmap
       맛집 한정, 주문 입찰제
         음식 경매임. 돈을 더내야 최후의 승자가 음식을 배달 가능
         일종의 경매 게임, 경매에서 이기면 추가로 특정 메뉴 제공 등의 헤택 마련
-
-        
-    
-    
-      
-      
-
-
-```
