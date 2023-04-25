@@ -3,12 +3,18 @@
 ```mermaid
 mindmap
   root((Ideas))
-    For Customer
-      Food Mate
-        나와 비슷한 주문 패턴을 하는 동네친구를 이어주자
-      Yochat
-        yochat order
-          채팅을 통해서 고객이 주문을 할 수 있으면 어떨까?
+    For / Using Customer
+      For Customer
+        Early bird order
+          식사 시간대 초입과 끝즘에 할인율을 더 높여 수요 분산 (대신 피크시간대 할인율 소폭 감소)
+        Food Mate
+          나와 비슷한 주문 패턴을 하는 동네친구를 이어주자
+        Yochat
+          yochat order
+            채팅을 통해서 고객이 주문을 할 수 있으면 어떨까?
+      Using Customer
+        Rider Scoring
+          가게 평점 뿐만 아니라 라이더 평점을 줌으로써 개별 라이더에 대한 프로파일링 정보 축적
       
         
     For / Using Rider
