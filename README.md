@@ -58,6 +58,14 @@ mindmap
             자주 묻는 질문 등은 자동화된 챗봇 활용으로 이슈사항 신속히 해결
         YoGIS embedding
           텍스트로 보고 싶은 맵 쿼리하자
+          Vector embedding of multiple H3 layers for downstream task 
+            H3 layers
+                지형, 건물, 인구수, dispatch wait time, distance to PU hot zone, ...
+            Downstream tasks 
+                지역 클러스터링, 지역단위 시간예측, ...
+            Examples
+                GeoBERT PreTraining Geospatial Representation Learning on Point of Interest
+                hex2vec Context Aware Embedding H3 Hexagons withOpenStreetMap Tags
 
     For Vendor
       사장님 메뉴 밀어주기
