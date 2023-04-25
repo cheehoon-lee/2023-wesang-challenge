@@ -1,3 +1,4 @@
+```mermaid
 mindmap
   root((Ideas))
     For / Using Customer
@@ -75,3 +76,4 @@ mindmap
       맛집 한정, 주문 입찰제
         음식 경매임. 돈을 더내야 최후의 승자가 음식을 배달 가능
         일종의 경매 게임, 경매에서 이기면 추가로 특정 메뉴 제공 등의 헤택 마련
+```
