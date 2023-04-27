@@ -1,3 +1,9 @@
+# what for?
+![image](https://user-images.githubusercontent.com/128560558/234886638-a29ef072-629e-4c53-b530-eacd87fe1072.png)
+
+
+# Idea Mindmap
+
 ```mermaid
 mindmap
   root((Ideas))
